@@ -17,7 +17,5 @@ I'm Ethan Mathias from Mumbai, India.<br><br>🔭 Currently pursuing BTech. Comp
 ![](https://github-contributor-stats.vercel.app/api?username=MathiasEthan&limit=5&theme=graywhite&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=whatevaman1&icon=9&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=MathiasEthan&icon=9&color=3)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/amansayyed10) 
