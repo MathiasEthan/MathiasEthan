@@ -1,5 +1,5 @@
 # About Me:
-I'm Ethan Mathias from Mumbai, India.<br><br>🔭 Currently pursuing BTech. Computer Engineering from SVKM's NMIMS Mukesh Patel School of Technology Management & Engineering.<br>📚 I’m currently learning React.<br>⚡ I like to make music, watch movies and go out with my friends!
+I'm Ethan Mathias from Mumbai, India.<br><br>🔭 Currently pursuing BTech. Computer Engineering from SVKM's NMIMS Mukesh Patel School of Technology Management & Engineering.<br><br>⚡ I like to make music, watch movies and go out with my friends!
 
 
 # 💻 Tech Stack/Skills:
