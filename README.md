@@ -1,5 +1,5 @@
 # 💫 About Me:
-Presently a Computer Engineering Student at NMIMS<br>Currently working on the frontend for a social media post generator for a startup, using primarily nextjs and shadcn
+Computer Engineering Student at NMIMS<br>
 
 
 ## 🌐 Socials:
